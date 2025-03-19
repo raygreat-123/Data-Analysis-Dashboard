@@ -54,5 +54,7 @@ This analysis provides valuable insights into employee training programs, helpin
 For questions or collaboration, reach out via:
 - **LinkedIn**: linkedin.com/in/raymond-tetteh-menetey-a6982b2b1
 - **Email**: tettehraymond25@gmail.com
-  
+
+## Dashboard
+https://github.com/raygreat-123/Data-Analysis-Dashboard/blob/main/Dashboard%20image.png
 
