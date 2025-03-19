@@ -13,16 +13,19 @@ The dataset includes the following sheets:
 - **Bonus**: Additional calculations and insights.
 
 ## Key Findings
-- 1. Salary Distribution Across Departments
+- **Salary Distribution Across Departments
 •	The Development department has the highest average salary.
 •	Other departments, such as HR and Finance, have significantly lower salaries in comparison.
-2. Employee Training Participation
+
+- **Employee Training Participation
 •	Most employees attended training in Leadership, Technical 1, and Technical 2 categories.
 •	Project Management and Teamwork training had lower participation.
-3️. Experience by Role
+
+- **Experience by Role
 •	Technicians, Software Engineers, and Job Schedulers have the highest average years of experience.
 •	Analysts and Accountants have the least experience.
-4️. Average Salary by Role
+
+- **Average Salary by Role
 •	Software Engineers and Product Analysts earn the highest salaries.
 
 
