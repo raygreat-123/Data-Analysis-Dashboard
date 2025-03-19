@@ -56,5 +56,5 @@ For questions or collaboration, reach out via:
 - **Email**: tettehraymond25@gmail.com
 
 ## Dashboard
-https://github.com/raygreat-123/Data-Analysis-Dashboard/blob/main/Dashboard%20image.png
+![Image](https://github.com/user-attachments/assets/b26023b3-aa6b-4d16-b099-afe2badcf0ec)
 
