@@ -56,5 +56,5 @@ For questions or collaboration, reach out via:
 - **Email**: tettehraymond25@gmail.com
 
 ## Dashboard
-
+![Image](https://github.com/user-attachments/assets/fb908427-ec95-42ef-9e8b-6ee9d0760ede)
 
